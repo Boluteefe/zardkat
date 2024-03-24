@@ -44,4 +44,4 @@ This script does 4 things:
 
 # Author
 
-Samuel Dahunsi
+Boluwatife
